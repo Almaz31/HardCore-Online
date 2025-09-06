@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 43bdc2a48e782a347968b99b1f15abe1
+timeCreated: 1484146680
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 188518
+  packageName: Simple 2D Platformer Assets Pack
+  packageVersion: 1.0
+  assetPath: Assets/TutorialInfo/Scripts/Editor/ReadmeEditorBE2.cs
+  uploadId: 417220
